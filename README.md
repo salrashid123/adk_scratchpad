@@ -6,6 +6,10 @@ Note that for these examples, I used `Gemini Enterprise` and Application Default
 
 the intent of this is progressively add on more complex learning scenarios as i figure it out.  This is not a general tutorial and is pretty much just a log of my own progress
 
+Ultimately, i'd like to get to something like [Multi-agent AI system in Google Cloud](https://docs.cloud.google.com/architecture/multiagent-ai-system)
+
+>> note, these samples are not supported by google
+
 * `mcp_tool`:  very trivial demo of a custom tool, local mcp server and google search using 
 
 ---
